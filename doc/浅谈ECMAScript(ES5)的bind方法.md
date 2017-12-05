@@ -1,1 +1,0 @@
-## 浅谈ECMAScript5(ES5)的bind方法
