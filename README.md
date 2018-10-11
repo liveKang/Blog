@@ -1,6 +1,6 @@
 ## Blog
 
-* [web 编码规范](https://github.com/Rain1368189893/Blog/issues/8)
+* [web 编码规范](https://github.com/Rain1368189893/Blog/issues/9)
 
 * [GIT 命令备忘录](https://github.com/Rain1368189893/Blog/issues/8)
 
