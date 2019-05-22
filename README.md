@@ -1,6 +1,8 @@
 ## Blog
 - 2019
 
+[优雅的提交你的 Commit message](https://github.com/liveKang/Blog/issues/12)
+
 [微信小程序前后端交互流程图](https://github.com/liveKang/Blog/issues/11)
 
 [ESLint、Prettier 详细接入指南](https://github.com/Rain1368189893/Blog/issues/10)
